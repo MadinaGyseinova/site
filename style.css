@@ -1,0 +1,11 @@
+body{
+    background: #FFFFFF;
+}
+
+
+.item1{
+    position: absolute;
+    width: 1928px;
+    height: 3001px;
+    background: url(lol/maket.png);
+}
